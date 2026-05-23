@@ -26,7 +26,8 @@ seguindo os princípios de arquitetura de microsserviços.
 
 
 # Melhorias Futuras
-- Integração com banco de dados
-- Autenticação JWT
-- Deploy em nuvem
-- Integração com outros microsserviços
+- Integração com banco de dados.
+- Autenticação JWT.
+- Deploy. 
+- Integração com outros microsserviços.
+- Integração com ferramentas de monitoramento e observabilidade.
